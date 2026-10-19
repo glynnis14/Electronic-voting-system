@@ -1,0 +1,8 @@
+{
+  "name": "Glynnis-Blockchain E-voting -activity(1)",
+  "description": "An educational prototype ensuring transparent, tamper-evident vote recording using a custom Python blockchain for academic assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
